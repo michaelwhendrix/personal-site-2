@@ -19,7 +19,7 @@ section {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    width: 70%;
+    width: calc(70% - 5px);
 }
 h1 {
     margin-left: 30px;
