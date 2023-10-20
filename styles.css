@@ -51,4 +51,7 @@ p {
     section > a {
         font-size: 15px;
     }
+    article {
+        flex-direction: column;
+    }
 }
