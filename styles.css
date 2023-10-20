@@ -25,9 +25,14 @@ h1 {
     margin-left: 30px;
 }
 img {
+    border: 4px black solid;
     height: 300px;
     width: 300px;
     margin: 20px;
+}
+img:hover {
+    border: 4px yellow solid;
+    box-shadow: 5px 10px 10px yellow;
 }
 a {
     font-size: 30px;
