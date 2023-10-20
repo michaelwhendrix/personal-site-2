@@ -33,6 +33,9 @@ img {
 a {
     font-size: 30px;
 }
+a:hover {
+    background-color: gold;
+}
 article {
     display: flex;
     flex-direction: row;
